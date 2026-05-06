@@ -2,7 +2,7 @@
 
 # Movie Dataset Analysis for Production Insights
 > **Academic Details:**
-> * **Student Name:** Suraj Chauhan
+> * **Student Name:** Vedansh Deorani
 > * **Roll Number:** 2472040
 > * **Program Name:** BSc. (Hons) Computer Science
 > * **School:** School of Technology
